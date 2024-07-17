@@ -13,6 +13,7 @@ pkgbase = janet-lang-git
 	makedepends = git
 	provides = janet
 	provides = jpm
+	provides = janet-lang
 	conflicts = janet-lang
 	options = staticlibs
 	source = git+https://github.com/janet-lang/janet.git
